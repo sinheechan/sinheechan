@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
 
-## 📓 Technologies
+## 📓 Basic knowledge of Technologies
 
 <br />
 
