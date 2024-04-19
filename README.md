@@ -54,7 +54,8 @@
 <br /><br />
 
 <div align="center">
-  Object Detection
+  1. Object Detection
+  2. MLops
 
 
 <br /><br />
