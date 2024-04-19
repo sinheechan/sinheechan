@@ -8,7 +8,7 @@
 
 <h3 align="center">🖥️  Programming Languages  🖥️</h3>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 <h3 align="center">🔥  Tech Stack  🔥</h3>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=Seaborn&logoColor=ffdd54" />&nbsp
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB" />&nbsp
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/keras-c14438.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
@@ -51,7 +51,7 @@
 
 <h3 align="center">📙  Studying  📙</h3>
 
-<br /><br />
+<br />
 
 <div align="center">
 <h4> Object Detection <h4>
@@ -62,7 +62,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 
-<br /><br />
+<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -76,7 +76,7 @@
 
 <h3 align="center">✉️  Contact  ✉️</h3>
 
-<br/><br/>
+<br/>
 
   <div align="center">
   <a href="mailto:gmlcks0905@gmail.com">
