@@ -2,7 +2,7 @@
 
 <br/>
 
-<h3 align="center"> ✨  Preparing to Become an AI Engineer  ✨</h3>
+<h2 align="center"> ✨  Preparing to Become an AI Engineer  ✨</h2>
 
 <br/><br/>
 
