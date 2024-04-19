@@ -51,7 +51,8 @@
 
 <h3 align="center">📙 Studying 📙</h3>
 
-- Object Detection
+<div align="center">
+  Object Detection
 
 
 <br /><br />
