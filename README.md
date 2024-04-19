@@ -5,7 +5,19 @@
 <h3 align="center"> ✨ **AI Enginner 공부중인 신희찬 입니다.** ✨</h3>
 
 <br/><br/>
-  
+
+<h3 align="center">🖥️ Programming Languages 🖥️</h3>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
+</div>
+
+<br /><br />
+
 <h3 align="center">🔥 Tech Stack 🔥</h3>
 
 <br/><br/>
@@ -33,19 +45,6 @@
   <img src="https://img.shields.io/badge/streamlit-c14438.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Ultralytics-007ACC.svg?style=for-the-badge&logo=Ultralytics&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=for-the-badge&logo=MLops&logoColor=white" />&nbsp
-</div>
-
-<br /><br />
-
-<h3 align="center">🖥️ Programming Languages 🖥️</h3>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
-
 </div>
 
 <br /><br />
