@@ -6,30 +6,35 @@
 
 <br/><br/>
   
-<h3 align="center">✉️ Tech Stack ✉️</h3>
-<br/>
+<h3 align="center">🔥 Tech Stack 🔥</h3>
+
+<br/><br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tensorflow-E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
 </div>
 
 <br /><br />
 
 <h3 align="center">🖥️ Programming Languages 🖥️</h3>
 
-<br />
+<br/><br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
 
+</div>
+
 <br /><br />
 
 <h3 align="center">🛠 Tools 🛠</h3>
 
-<br />
+<br /><br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -40,13 +45,10 @@
 
 <br /><br />
 
-## 📓 Basic knowledge of Technologies
-
-
-<br />
-
 <h3 align="center">✉️ Contact ✉️</h3>
-<br/>
+
+<br/><br/>
+
   <div align="center">
   <a href="mailto:gmlcks0905@gmail.com">
   <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
