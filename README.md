@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/keras-c14438.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=for-the-badge&logo=MLops&logoColor=white" />&nbsp
 </div>
 
 <br>
