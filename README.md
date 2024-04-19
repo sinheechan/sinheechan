@@ -5,8 +5,9 @@
 #### ✨ **AI Enginner 공부중인 신희찬 입니다.** ✨
 <br /><br /> 
 [![Gmail Badge](https://img.shields.io/badge/-gmlcks0905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmlcks0905@gmail.com)](mailto:gmlcks0905@gmail.com) 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=Notion)](https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4)
-![](https://komarev.com/ghpvc/?username=shinheechan)
+[![Notion](https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat-square&logo=Notion&logoColor=black)](https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4)
+[![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github)](https://github.com/sinheechan?pvs=4)
+![](https://komarev.com/ghpvc/?username=your-github-sinheechan)
 <br /><br /> 
 
 ## 🖥️ Programming Languages
