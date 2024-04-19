@@ -4,6 +4,8 @@
 <br /><br /> 
 [![Gmail Badge](https://img.shields.io/badge/-gmlcks0905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmlcks0905@gmail.com)](mailto:gmlcks0905@gmail.com) 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=Notion)](https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4)
+![](https://komarev.com/ghpvc/?username=shinheechan)
+
 <br /><br /> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
