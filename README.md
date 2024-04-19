@@ -1,16 +1,30 @@
 # Hello, Heechan Github 👋
 
-<br />
+<br/>
 
-#### ✨ **AI Enginner 공부중인 신희찬 입니다.** ✨
-<br /><br /> 
-[![Gmail Badge](https://img.shields.io/badge/-gmlcks0905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmlcks0905@gmail.com)](mailto:gmlcks0905@gmail.com) 
-[![Notion](https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat-square&logo=Notion&logoColor=black)](https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4)
-[![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github)](https://github.com/sinheechan?pvs=4)
-![](https://komarev.com/ghpvc/?username=your-github-sinheechan)
-<br /><br /> 
+<h3 align="center"> ✨ **AI Enginner 공부중인 신희찬 입니다.** ✨</h3>
 
-## 🖥️ Programming Languages
+<br/><br/>
+  
+<h3 align="center">✉️ Contact ✉️</h3>
+<br/>
+  <div align="center">
+  <a href="mailto:gmlcks0905@gmail.com">
+  <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4">
+  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat-square&logo=Notion&logoColor=black" alt="Notion">
+</a>
+
+<a href="https://github.com/sinheechan?pvs=4">
+  <img src="https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github" alt="Github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sinheechan" alt="GitHub Profile Views">
+
+<br /><br />
+
+<h3 align="center">🖥️ Programming Languages 🖥️</h3>
 
 <br />
 
