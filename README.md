@@ -1,4 +1,4 @@
-# Hello, Heechan Github 🤵
+# Hello, Heechan Github 👋
 
 <br />
 
