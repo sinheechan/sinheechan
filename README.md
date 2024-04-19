@@ -55,9 +55,10 @@
 
 <div align="center">
 Object Detection
-  
+<br />
 MLops
-
+<br />
+DeepFake
 
 <br /><br />
 
