@@ -41,7 +41,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/streamlit-c14438.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Ultralytics-007ACC.svg?style=for-the-badge&logo=Ultralytics&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=for-the-badge&logo=MLops&logoColor=white" />&nbsp
@@ -54,7 +54,7 @@
 <br /><br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 
