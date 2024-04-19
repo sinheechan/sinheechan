@@ -49,6 +49,13 @@
 
 <br /><br />
 
+<h3 align="center">📙 Studying 📙</h3>
+
+- Object Detection
+
+
+<br /><br />
+
 <h3 align="center">🛠 Tools 🛠</h3>
 
 <br /><br />
