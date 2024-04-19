@@ -6,6 +6,45 @@
 
 <br/><br/>
   
+<h3 align="center">✉️ Tech Stack ✉️</h3>
+<br/>
+
+<a href="https://github.com/sinheechan?pvs=4">
+  <img src="https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github" alt="Github">
+</a>
+
+<br /><br />
+
+<h3 align="center">🖥️ Programming Languages 🖥️</h3>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
+
+<br /><br />
+
+<h3 align="center">🛠 Tools 🛠</h3>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+
+</div>
+
+<br /><br />
+
+## 📓 Basic knowledge of Technologies
+
+
+<br />
+
 <h3 align="center">✉️ Contact ✉️</h3>
 <br/>
   <div align="center">
@@ -16,34 +55,6 @@
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=flat-square&logo=Notion&logoColor=black" alt="Notion">
 </a>
 
-<a href="https://github.com/sinheechan?pvs=4">
-  <img src="https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github" alt="Github">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sinheechan" alt="GitHub Profile Views">
-
 <br /><br />
-
-<h3 align="center">🖥️ Programming Languages 🖥️</h3>
-
-<br />
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
-
-<br /><br />
-
-## 📓 Basic knowledge of Technologies
-
-<br />
-
-- Machine Learning
-- Deep Learning
-- Data Science
-- Flask_API
-- streamlit
-- Flask
-- MLops
-
-<br />
 
 [![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)
