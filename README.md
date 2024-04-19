@@ -1,8 +1,8 @@
-# Hello, Heechan Github 👋
+<h1 align="center"> Hello, Heechan Github 👋 </h3>
 
 <br/>
 
-<h2 align="center"> ✨ 신희찬의 깃허브에 오신것을 환영합니다.  ✨</h2>
+<h3 align="center"> ✨ Preparing to Become an AI Engineer ✨</h3>
 
 <br/><br/>
 
