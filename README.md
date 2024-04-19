@@ -3,7 +3,7 @@
 ✨ **AI Enginner 공부중인 신희찬 입니다.** ✨
 <br /><br /> 
 [![Gmail Badge](https://img.shields.io/badge/-gmlcks0905@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmlcks0905@gmail.com)](mailto:gmlcks0905@gmail.com) 
-
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=Notion&link=https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4)
 
 <br /><br /> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
