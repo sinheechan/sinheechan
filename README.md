@@ -2,11 +2,11 @@
 
 <br/>
 
-<h3 align="center"> ✨ Preparing to Become an AI Engineer ✨</h3>
+<h3 align="center"> ✨  Preparing to Become an AI Engineer  ✨</h3>
 
 <br/><br/>
 
-<h3 align="center">🖥️ Programming Languages 🖥️</h3>
+<h3 align="center">🖥️  Programming Languages  🖥️</h3>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 
 <br /><br />
 
-<h3 align="center">🔥 Tech Stack 🔥</h3>
+<h3 align="center">🔥  Tech Stack  🔥</h3>
 
 <br/><br/>
 
@@ -49,16 +49,14 @@
 
 <br /><br />
 
-<h3 align="center">📙 Studying 📙</h3>
+<h3 align="center">📙  Studying  📙</h3>
 
 <br /><br />
 
 <div align="center">
-Object Detection
-<br />
-MLops
-<br />
-DeepFake
+<h4> Object Detection <h4>
+<h4> MLops <h4>
+<h4> DeepFake <h4>
 
 <br /><br />
 
@@ -76,7 +74,7 @@ DeepFake
   
 <br /><br />
 
-<h3 align="center">✉️ Contact ✉️</h3>
+<h3 align="center">✉️  Contact  ✉️</h3>
 
 <br/><br/>
 
