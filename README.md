@@ -2,7 +2,7 @@
 
 <br/>
 
-<h2 align="center"> ✨ AI Enginner 공부중인 신희찬 입니다. ✨</h2>
+<h2 align="center"> ✨ 신희찬의 깃허브에 오신것을 환영합니다.  ✨</h2>
 
 <br/><br/>
 
