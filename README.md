@@ -2,7 +2,7 @@
 
 <br/>
 
-<h3 align="center"> ✨ **AI Enginner 공부중인 신희찬 입니다.** ✨</h3>
+<h2 align="center"> ✨ AI Enginner 공부중인 신희찬 입니다. ✨</h2>
 
 <br/><br/>
 
