@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/keras-c14438.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -21,6 +22,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/flask-181717.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/streamlit-c14438.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Ultralytics-007ACC.svg?style=for-the-badge&logo=Ultralytics&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   
 <br /><br />
