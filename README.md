@@ -93,21 +93,32 @@
 
 <br/>
 
-- [IT_Korea_Academy] Python의 기초 과정 수료
-- [IT_Korea_Academy] R 빅데이터 과정 수료 
-- [IT_Korea_Academy] DBMS 과정 수료
-- [IT_Korea_Academy] AI인공지능빅데이터 과정 수료
+  [IT_Korea_Academy] Python의 기초 과정 수료
+  
+  [IT_Korea_Academy] R 빅데이터 과정 수료 
+  
+  [IT_Korea_Academy] DBMS 과정 수료
+  
+  [IT_Korea_Academy] AI인공지능빅데이터 과정 수료
+  
 
 <br/>
 
-- MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 모델 비교분석
-- DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석
-- YOLOv8을 활용한 이미지 및 동영상 처리
-- YOLOv8을 활용한 영상 객체 감지 및 Flask 웹 애플리케이션 배포
-- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 웹 애플리케이션을 구축
-- Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축
-- Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현
-- MLops를 활용한 주식데이터 수집, 적재, 예측 자동화 모델 구현
+  MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 모델 비교분석
+  
+  DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석
+  
+  YOLOv8을 활용한 이미지 및 동영상 처리
+  
+  YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포
+  
+  Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축
+  
+  Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축
+  
+  Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현
+  
+  MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현
 
 
 <br /><br />
