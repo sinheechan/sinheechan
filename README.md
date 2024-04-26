@@ -89,4 +89,10 @@
 
 <br /><br />
 
+  <div align="center">
+  [IT_Korea_Academy] Python의 이해 
+
+
+<br /><br />
+
 [![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)
