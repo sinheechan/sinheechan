@@ -120,6 +120,7 @@
   
   MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현
 
+  Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 
 
 <br /><br />
 
