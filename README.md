@@ -2,6 +2,10 @@
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=sinheechan)
+
+<br/>
+
 <h2 align="center"> ✨  Preparing to Become an AI Engineer  ✨</h2>
 
 <br/><br/>
