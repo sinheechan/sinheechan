@@ -130,6 +130,8 @@
 
   Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 
 
+  Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습
+
 <br /><br />
 
 [![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)
