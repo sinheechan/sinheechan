@@ -91,7 +91,7 @@
   <a href="mailto:gmlcks0905@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
 </a>
-  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4" target="_blank">링크</a>
+  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion">
 </a>
 
