@@ -91,7 +91,7 @@
 
 <br /><br />
 
-<h3 align="center">🚩  Education / Project  🚩</h3>
+<h3 align="center">🚩  Education   🚩</h3>
 
 <br/>
 
@@ -102,7 +102,10 @@
   [IT_Korea_Academy] DBMS 과정 수료
   
   [IT_Korea_Academy] AI인공지능빅데이터 과정 수료
-  
+
+<br/>
+
+<h3 align="center">🤖  AI processing technology  🤖</h3>
 
 <br/>
 
