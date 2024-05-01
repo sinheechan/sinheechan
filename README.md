@@ -113,7 +113,7 @@
   
   DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석
   
-  YOLOv8을 활용한 이미지 및 동영상 처리
+  YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현
   
   YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포
   
