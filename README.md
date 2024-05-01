@@ -1,4 +1,6 @@
-<h1 align="center"> 👋 Hello, Heechan Github 👋 </h3>
+<div align="center">
+  <img src="https://github.com/sinheechan/sinheechan/assets/147711497/2b2ed3fc-bf74-472e-9401-8dc09be2b116" />
+</div> 
 
 <br/>
 
