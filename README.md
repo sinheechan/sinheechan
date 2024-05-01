@@ -105,7 +105,7 @@
 
 <br/>
 
-<h3 align="center">🤖  AI processing technology  🤖</h3>
+<h3 align="center">🤖  AI processing project  🤖</h3>
 
 <br/>
 
