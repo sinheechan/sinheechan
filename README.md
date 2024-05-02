@@ -18,9 +18,9 @@
 <br/>
 
 <div>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
 </div>
 
 <br /><br />
@@ -80,17 +80,15 @@
 <br /><br />
 
 <h2>✉️  Contact / 📋 Portfolio</h2>
-
+<hr>
 <br/>
-
-  <div>
-  <a href="mailto:gmlcks0905@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-</a> 
-  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion">
-</a>
-
+<div>
+  <a href="mailto:gmlcks0905@gmail.com" target="_blank"> <!-- Gmail -->
+  <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp
+  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4" target="_blank"> <!-- Notion -->
+  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
+  </div>
+  
 <br /><br />
 
 <h2>🚩  Education</h2>
