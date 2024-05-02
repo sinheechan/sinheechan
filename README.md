@@ -23,11 +23,6 @@
   <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
 </div>
 
-  <div align="right">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinheechan&layout=compact&theme=apprentice)
-  </div>
-
 <br /><br />
 
 <h2>🔥  Tech Stack</h2>
