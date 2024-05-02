@@ -158,4 +158,9 @@
 
 <br /><br />
 
-[![sinheechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinheechan&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/sinheechan)
+<a href="https://github.com/sinheechan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinheechan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+
