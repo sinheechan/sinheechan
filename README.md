@@ -105,6 +105,30 @@
 
 <br/>
 
+<h3 align="center">📈  Data Analysis  📉</h3>
+
+  Titanic 생존률 예측 
+
+  Santander 고객만족 예측
+
+  신용카드 사기 검출
+
+  Mnist 손글씨 숫자 이미지 분류
+
+  OECD 국가 삶 만족도 예측
+
+  Bike Sharing 수요예측
+
+  Iris 품종 분류하기
+
+  Pima Indians 당뇨병 예측
+
+  Human Activity Recognition 데이터 예측
+
+  위스콘신 유방암 예측
+  
+<br/>
+
 <h3 align="center">🤖  AI processing project  🤖</h3>
 
 <br/>
