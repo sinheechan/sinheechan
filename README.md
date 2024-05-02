@@ -126,25 +126,31 @@
 
 <br/>
 
-- MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석
+- MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석 ([링크](https://github.com/sinheechan/ML_AutoModel_test.git))
   
-- DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석
+- DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
   
-- YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현
+- YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
   
-- YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포
+- YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
   
-- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축
-  
-- Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축
-  
-- Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현
-  
-- MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현
+- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
 
-- Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 
+- torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
 
-- Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습
+- CAM과 GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
+  
+- Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
+  
+- Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
+
+- chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
+  
+- MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
+
+- Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
+
+- Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
 
 <br /><br />
 
