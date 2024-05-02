@@ -49,10 +49,14 @@
 <br />
 
 <div>
-<h4> Object Detection <h4>
-<h4> MLops <h4>
-<h4> DeepFake <h4>
-<h4> C++ <h4>
+  
+- Object Detection
+  
+- MLops
+  
+- DeepFake
+  
+- C++
 
 <br /><br />
 
