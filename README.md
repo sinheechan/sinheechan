@@ -20,8 +20,13 @@
 <div>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>
 </div>
+
+  <div align="right">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinheechan&layout=compact&theme=apprentice)
+  </div>
 
 <br /><br />
 
