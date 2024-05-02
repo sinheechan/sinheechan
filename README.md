@@ -80,7 +80,6 @@
 <br /><br />
 
 <h2>✉️  Contact / 📋 Portfolio</h2>
-<hr>
 <br/>
 <div>
   <a href="mailto:gmlcks0905@gmail.com" target="_blank"> <!-- Gmail -->
