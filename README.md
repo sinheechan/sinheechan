@@ -109,7 +109,7 @@
 
 <br/>
 
-  MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 모델 비교분석
+  MuchinLearning 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석
   
   DeepLearning 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석
   
