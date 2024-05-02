@@ -107,25 +107,25 @@
 
 <h3 align="center">📈  Data Analysis  📉</h3>
 
-  Titanic 생존률 예측 
+<br/>
 
-  Santander 고객만족 예측
+  Titanic 생존률 예측  ([링크](https://noon-lynx-02e.notion.site/Dataset-Titinic-e32c936355504076a5eeed1e1441673f?pvs=4))  
 
-  신용카드 사기 검출
+  Santander 고객만족 예측  ([링크](https://noon-lynx-02e.notion.site/Dataset-Santander-0a3feaa03b1243c893ed79b5e096f66a?pvs=4))
 
-  Mnist 손글씨 숫자 이미지 분류
+  Mnist 손글씨 숫자 이미지 분류 ([링크](https://noon-lynx-02e.notion.site/Dataset-Mnist-7cc72ab9dae44a7d9fa60dd7a64cbc6e?pvs=4))
 
-  OECD 국가 삶 만족도 예측
+  OECD 국가 삶 만족도 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-OECD-f883f04b2513471b8318c4e8e40db5da?pvs=4))
 
-  Bike Sharing 수요예측
+  Bike Sharing 수요예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-79058653e2e445efb01c147179d6a4b2?pvs=4))
 
-  Iris 품종 분류하기
+  Iris 품종 분류하기 ([링크](https://noon-lynx-02e.notion.site/Dataset-iris-725b14504c6940fc842c1002a9c21be0?pvs=4))
 
-  Pima Indians 당뇨병 예측
+  Pima Indians 당뇨병 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-e3e5ff45d56b43d2b574847544c1616e?pvs=4))
 
-  Human Activity Recognition 데이터 예측
+  Human Activity Recognition 데이터 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-3bf5cbd807c5430c9a7659abbc72ad8d?pvs=4))
 
-  위스콘신 유방암 예측
+  위스콘신 유방암 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-94b34a6dac6a4a0891d9f158efd17906?pvs=4))
   
 <br/>
 
