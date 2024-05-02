@@ -87,6 +87,12 @@
   <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4" target="_blank"> <!-- Notion -->
   <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
   </div>
+
+<h2>📝 Study Posting </h2>
+<hr>
+<div >
+  <a href="https://noon-lynx-02e.notion.site/SKILLS__-52ac83235371453f88ca492b4f233cd5?pvs=4" target="_blank"> <!-- Notion -->
+  <img src="https://img.shields.io/badge/Notion-d9d9d9?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
   
 <br /><br />
 
