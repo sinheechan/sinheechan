@@ -1,3 +1,8 @@
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=sinheechan&color=lightgrey)
+</div>
+
 <div align="center">
   <img src="https://github.com/sinheechan/sinheechan/assets/147711497/2b2ed3fc-bf74-472e-9401-8dc09be2b116" />
 </div> 
