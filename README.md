@@ -70,7 +70,7 @@
   
 <br /><br />
 
-<h3>✉️  Contact / Portfolio</h3>
+<h2>✉️  Contact / Portfolio</h2>
 
 <br/>
 
@@ -88,13 +88,13 @@
 
 <br/>
 
-  [IT_Korea_Academy] Python의 기초 과정 수료
+- [IT_Korea_Academy] Python의 기초 과정 수료
   
-  [IT_Korea_Academy] R 빅데이터 과정 수료 
+- [IT_Korea_Academy] R 빅데이터 과정 수료 
   
-  [IT_Korea_Academy] DBMS 과정 수료
+- [IT_Korea_Academy] DBMS 과정 수료
   
-  [IT_Korea_Academy] AI인공지능빅데이터 과정 수료
+- [IT_Korea_Academy] AI인공지능빅데이터 과정 수료
 
 <br/>
 
