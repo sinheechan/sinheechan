@@ -119,7 +119,7 @@
 
 <br/>
 
-- Titanic 생존률 예측  ([링크](https://noon-lynx-02e.notion.site/Dataset-Titinic-e32c936355504076a5eeed1e1441673f?pvs=4))  
+- Titanic 생존률 예측  ([링크](https://github.com/sinheechan/Data_Analysis_Titanic.git))  
 
 - Santander 고객만족 예측  ([링크](https://noon-lynx-02e.notion.site/Dataset-Santander-0a3feaa03b1243c893ed79b5e096f66a?pvs=4))
 
