@@ -121,7 +121,7 @@
 
 - Titanic 생존률 예측  ([링크](https://github.com/sinheechan/Data_Analysis_Titanic.git))  
 
-- Santander 고객만족 예측  ([링크](https://noon-lynx-02e.notion.site/Dataset-Santander-0a3feaa03b1243c893ed79b5e096f66a?pvs=4))
+- Santander 고객만족 예측  ([링크](https://github.com/sinheechan/Data_Analysis_Santander.git))
 
 - Mnist 손글씨 숫자 이미지 분류 ([링크](https://noon-lynx-02e.notion.site/Dataset-Mnist-7cc72ab9dae44a7d9fa60dd7a64cbc6e?pvs=4))
 
