@@ -123,7 +123,7 @@
 
 - Santander 고객만족 예측  ([링크](https://github.com/sinheechan/Data_Analysis_Santander.git))
 
-- Mnist 손글씨 숫자 이미지 분류 ([링크](https://noon-lynx-02e.notion.site/Dataset-Mnist-7cc72ab9dae44a7d9fa60dd7a64cbc6e?pvs=4))
+- Mnist 손글씨 숫자 이미지 분류 ([링크](https://github.com/sinheechan/Data_Analysis_Mnist.git))
 
 - OECD 국가 삶 만족도 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-OECD-f883f04b2513471b8318c4e8e40db5da?pvs=4))
 
