@@ -125,11 +125,11 @@
 
 - Mnist 손글씨 숫자 이미지 분류 ([링크](https://github.com/sinheechan/Data_Analysis_Mnist.git))
 
-- OECD 국가 삶 만족도 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-OECD-f883f04b2513471b8318c4e8e40db5da?pvs=4))
+- OECD 국가 삶 만족도 예측 ([링크](https://github.com/sinheechan/Data_Analysis_OECD.git))
 
 - Bike Sharing 수요예측 ([링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git))
 
-- Iris 품종 분류하기 ([링크](https://noon-lynx-02e.notion.site/Dataset-iris-725b14504c6940fc842c1002a9c21be0?pvs=4))
+- Iris 품종 분류하기 ([링크](https://github.com/sinheechan/Data_analysis_IRIS.git))
 
 - Pima Indians 당뇨병 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-e3e5ff45d56b43d2b574847544c1616e?pvs=4))
 
