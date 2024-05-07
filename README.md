@@ -131,7 +131,7 @@
 
 - Iris 품종 분류하기 ([링크](https://github.com/sinheechan/Data_analysis_IRIS.git))
 
-- Pima Indians 당뇨병 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-e3e5ff45d56b43d2b574847544c1616e?pvs=4))
+- Pima Indians 당뇨병 예측 ([링크](https://github.com/sinheechan/Data_analysis_Pima.git))
 
 - Human Activity Recognition 데이터 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-3bf5cbd807c5430c9a7659abbc72ad8d?pvs=4))
 
