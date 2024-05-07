@@ -127,7 +127,7 @@
 
 - OECD 국가 삶 만족도 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-OECD-f883f04b2513471b8318c4e8e40db5da?pvs=4))
 
-- Bike Sharing 수요예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-79058653e2e445efb01c147179d6a4b2?pvs=4))
+- Bike Sharing 수요예측 ([링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git))
 
 - Iris 품종 분류하기 ([링크](https://noon-lynx-02e.notion.site/Dataset-iris-725b14504c6940fc842c1002a9c21be0?pvs=4))
 
