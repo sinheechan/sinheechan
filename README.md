@@ -133,7 +133,7 @@
 
 - Pima Indians 당뇨병 예측 ([링크](https://github.com/sinheechan/Data_analysis_Pima.git))
 
-- Human Activity Recognition 데이터 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-3bf5cbd807c5430c9a7659abbc72ad8d?pvs=4))
+- Human Activity Recognition 데이터 예측 ([링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git))
 
 - 위스콘신 유방암 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-94b34a6dac6a4a0891d9f158efd17906?pvs=4))
   
