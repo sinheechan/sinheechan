@@ -162,14 +162,16 @@
 - Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
 
 - chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
-  
-- MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
 - Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
 - Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
 
 <br /><br />
+
+<h2>🎯 MLops</h2>
+
+- MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
 <a href="https://github.com/sinheechan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinheechan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
