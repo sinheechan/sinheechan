@@ -173,6 +173,8 @@
 
 - MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
+<br /><br />
+
 <a href="https://github.com/sinheechan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sinheechan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
