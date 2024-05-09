@@ -171,6 +171,8 @@
 
 <h2>🎯 MLops</h2>
 
+<br />
+
 - MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
 <br /><br />
