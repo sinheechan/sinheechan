@@ -135,7 +135,7 @@
 
 - Human Activity Recognition 데이터 예측 ([링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git))
 
-- 위스콘신 유방암 예측 ([링크](https://noon-lynx-02e.notion.site/Dataset-94b34a6dac6a4a0891d9f158efd17906?pvs=4))
+- 위스콘신 유방암 예측 ([링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git))
   
 <br/>
 
