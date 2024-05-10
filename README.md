@@ -167,7 +167,7 @@
 
 - Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
 
-- LLM : LLaMA-3 에서 발전된 한국어 학습 모델 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
+- LLM : LLaMA-3 확장된 한국어 학습모델 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
 
 <br /><br />
 
