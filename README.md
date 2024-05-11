@@ -146,16 +146,10 @@
 - Machine Learning : 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석 ([링크](https://github.com/sinheechan/ML_AutoModel_test.git))
   
 - DeepLearning : 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
-  
-- YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
-  
-- YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
-  
-- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
 
 - torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
 
-- CAM과 GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
+- GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
   
 - Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
   
@@ -171,9 +165,19 @@
 
 <br /><br />
 
+<h2>🚗 Vehicle Detection Models </h2>
+
+- YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
+  
+- YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
+
+- 
+
 <h2>🎯 MLops</h2>
 
 <br />
+
+- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
 
 - MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
