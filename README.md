@@ -161,6 +161,8 @@
 
 <h2>🚗 Vehicle Detection Models </h2>
 
+<br/>
+
 - YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
   
 - YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
@@ -174,6 +176,8 @@
 <br /><br />
 
 <h2>📢 LLM </h2>
+
+<br/>
 
 - LLM : LLaMA-3 확장된 한국어 학습모델 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
 
