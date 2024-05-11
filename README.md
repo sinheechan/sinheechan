@@ -148,8 +148,6 @@
 - DeepLearning : 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
 
 - torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
-
-- GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
   
 - Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
   
@@ -171,7 +169,9 @@
   
 - YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
 
-- 
+- GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
+
+<br /><br />
 
 <h2>🎯 MLops</h2>
 
