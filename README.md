@@ -171,6 +171,10 @@
 
 - GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
 
+- Semantic Segmentation 차량 파손 견적 서비스 구현 ([링크](https://github.com/sinheechan/Car_damage_segment.git))
+
+- Yolov5 객체(차량) 간 거리 측정 모델 구현 ([링크]())
+
 <br /><br />
 
 <h2>🎯 MLops</h2>
