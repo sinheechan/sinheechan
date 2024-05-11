@@ -159,8 +159,6 @@
 
 - Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
 
-- LLM : LLaMA-3 확장된 한국어 학습모델 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
-
 <br /><br />
 
 <h2>🚗 Vehicle Detection Models </h2>
@@ -176,6 +174,10 @@
 - Yolov5 객체(차량) 간 거리 측정 모델 구현 ([링크](https://github.com/sinheechan/Yolov5_Car_Distance.git))
 
 <br /><br />
+
+<h2>📢 LLM </h2>
+
+- - LLM : LLaMA-3 확장된 한국어 학습모델 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
 
 <h2>🎯 MLops</h2>
 
