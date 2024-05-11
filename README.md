@@ -149,8 +149,6 @@
 
 - torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
   
-- Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
-  
 - Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
 
 - chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
@@ -178,6 +176,8 @@
 <h2>📢 LLM </h2>
 
 - LLM : LLaMA-3 확장된 한국어 학습모델 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
+
+- Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
 
 <br/><br/>
 
