@@ -1,19 +1,31 @@
-<div align="right">
-
-![](https://komarev.com/ghpvc/?username=sinheechan&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=sinheechan&color=lightgrey)<div align="right">
 </div>
 
 <div align="center">
   <img src="https://github.com/sinheechan/sinheechan/assets/147711497/2b2ed3fc-bf74-472e-9401-8dc09be2b116" />
 </div> 
 
+<br/><br/><br/>
+
+<h2> 🤔 데이터 분석 / AI 엔지니어 관련 프로젝트와 자료를 업로드하고 있습니다. 🤔 </h2>
+
+<br/><br/><br/>
+
+<h2> 🤵 신희찬의 이력입니다. </h2>
+
 <br/>
 
-<h2> ✨  Preparing to Become an AI Engineer</h2>
+- **2015.02** ~ **2021.03** : [한남대학교] 경제학부(주), 마케팅(부) 전공 / 군대(만기전역)
 
-<br/><br/>
+- **2022.07** ~ **2023.08** : [IVE_korea] App 마케팅 분석 AM 직무 수행
+  
+- **2023.08** ~ **2024.06** : [IT_Korea_Academy] Python, R 빅데이터, DBMS, AI 인공지능 빅데이터 과정 수료
 
-<h2>🖥️  Programming Languages</h2>
+- **2024.06** ~ **재직 중** : [Progress Media] Web 마케팅 분석 AM 직무 수행
+
+<br /><br /><br/>
+
+<h2> 🖥️ 사용 가능한 프로그레밍 언어입니다. </h2>
 
 <br/>
 
@@ -23,9 +35,9 @@
   <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
 </div>
 
-<br /><br />
+<br /><br /><br/>
 
-<h2>🔥  Tech Stack</h2>
+<h2> 🔥 사용 가능한 기술 스텍입니다.</h2>
 
 <br/>
 
@@ -47,75 +59,33 @@
   <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=for-the-badge&logo=MLops&logoColor=white" />&nbsp
 </div>
 
-<br /><br />
+<br /><br /><br/>
 
-<h2>📙  Studying </h2>
-
-<br />
-
-<div>
-  
-- Object Detection
-  
-- MLops
-  
-- DeepFake
-  
-- C++
-
-<br /><br />
-
-<h2>🛠 Tools </h2>
+<h2> 📙 관심 분야입니다. </h2>
 
 <br />
 
 <div>
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/dbeaver-2C2C32.svg?style=for-the-badge&logo=dbeaver&logoColor=F37726" />&nbsp
-
-</div>
   
-<br /><br />
+- MLops / RPA 기반 업무, 협업 자동화 프로세스 구축
 
-<h2>✉️  Contact / 📋 Portfolio</h2>
+- 건설현장, 차량서비스에 활용되는 Detection(탐지) Model 알고리즘 구축
+  
+<br /><br /><br/>
+
+<h2> ✉️ 문의 시 메일로 연락주세요. </h2>
+
 <br/>
+
 <div>
   <a href="mailto:gmlcks0905@gmail.com" target="_blank"> <!-- Gmail -->
   <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp
-  <a href="https://noon-lynx-02e.notion.site/ae6a8cd765ef46669580fd863ef9b37c?pvs=4" target="_blank"> <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-d9d9d9.svg?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
   </div>
+
 
 <br/><br/>
 
-<h2>📝 Study Posting </h2>
-
-<br/>
-
-<div >
-  <a href="https://noon-lynx-02e.notion.site/SKILLS__-52ac83235371453f88ca492b4f233cd5?pvs=4" target="_blank"> <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-d9d9d9?style=for-the-badge&logo=Notion&logoColor=black" alt="Notion"></a>&nbsp
-  
-<br /><br />
-
-<h2>🚩  Education</h2>
-
-<br/>
-
-- [IT_Korea_Academy] Python의 기초 과정 수료
-  
-- [IT_Korea_Academy] R 빅데이터 과정 수료
-  
-- [IT_Korea_Academy] DBMS 과정 수료
-  
-- [IT_Korea_Academy] AI인공지능빅데이터 과정 수료
-
-  
-<br/>
-
-<h2>📈  Data Analysis</h2>
+<h2>📈 데이터 분석 개인 학습자료입니다.</h2>
 
 <br/>
 
@@ -136,30 +106,36 @@
 - Human Activity Recognition 데이터 예측 ([링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git))
 
 - 위스콘신 유방암 예측 ([링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git))
-  
-<br/>
 
-<h2>🤖  AI processing project</h2>
+- 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석 ([링크](https://github.com/sinheechan/ML_AutoModel_test.git))
 
-<br/>
+<br/><br/>
 
-- Machine Learning : 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석 ([링크](https://github.com/sinheechan/ML_AutoModel_test.git))
-  
-- DeepLearning : 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
+<h2> 🤖  AI 알고리즘 학습 프로젝트 자료입니다. </h2>
 
-- torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
-  
-- Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
+<br/><br/>
 
-- chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
+<h3> ⛑️ 건설현장 안전 관련 프로젝트 </h3>
+
+<br/>  
 
 - Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
-- Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
+<br /><br /> 
+
+<h3> 🖼️ 이미지 기반 Classification Model 관련 프로젝트입니다. </h3>
+
+<br /> 
+
+- DeepLearning : 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
+
+- torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
+
+- chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
 
 <br /><br />
 
-<h2>🚗 Vehicle Detection Models </h2>
+<h3> 🚕 교통 / 차량 서비스 관련 Detection Models 프로젝트입니다. </h3>
 
 <br/>
 
@@ -175,9 +151,13 @@
 
 <br /><br />
 
-<h2>📢 LLM </h2>
+<h3> 🤖 생성형 AI 알고리즘 학습을 위한 프로젝트 자료입니다. </h3>
 
 <br/>
+
+- Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
+
+- Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
 
 - LLM : LLaMA-3 확장된 한국어 학습 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
 
@@ -185,7 +165,7 @@
 
 <br/><br/>
 
-<h2>🎯 MLops</h2>
+<h3> 🧬 MLops / RPA 자동화 시스템 구축 프로젝트입니다. </h3>
 
 <br />
 
