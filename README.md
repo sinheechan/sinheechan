@@ -54,7 +54,7 @@
 
 <br /><br /><br/>
 
-<h2> 📚 관심 분야입니다. </h2>
+<h2> 🔥 관심 분야입니다. </h2>
 
 <br />
 
@@ -75,6 +75,15 @@
   <img src="https://img.shields.io/badge/gmlcks0905%40gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp
   </div>
 
+<br/><br/><br/>
+
+<h2>📚 프로그레밍 언어 학습 요약 자료입니다. </h2>
+
+|자료출처|언어|상세내용|URL|
+|------|---|---|-|
+|위키독스|Python|Python 기초과정|작업중입니다.|
+|위키독스|R|R 기초과정 및 데이터 분석 레퍼런스 포함|작업중입니다.|
+|위키독스|SQL|DBMS 기초과정 교육 내용 요약|작업중입니다.|
 
 <br/><br/><br/>
 
