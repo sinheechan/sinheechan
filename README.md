@@ -83,7 +83,7 @@
   </div>
 
 
-<br/><br/>
+<br/><br/><br/>
 
 <h2>📈 데이터 분석 개인 학습자료입니다.</h2>
 
@@ -109,7 +109,7 @@
 
 - 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석 ([링크](https://github.com/sinheechan/ML_AutoModel_test.git))
 
-<br/><br/>
+<br/><br/><br/>
 
 <h2> 🤖  AI 알고리즘 학습 프로젝트 자료입니다. </h2>
 
