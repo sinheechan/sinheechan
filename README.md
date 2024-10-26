@@ -25,9 +25,9 @@
 
 <br /><br /><br/>
 
-<h2> 🖥️ 사용 가능한 프로그레밍 언어입니다. </h2>
+<h2> 🖥️ 사용중인 기술 스택입니다. </h2>
 
-<br/>
+<br /><br /> 
 
 <div>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
@@ -35,33 +35,26 @@
   <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
 </div>
 
-<br /><br /><br/>
+<br />
 
-<h2> 🔥 사용 가능한 기술 스텍입니다.</h2>
-
-<br/>
-
-<div>
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/tensorflow-E34F26.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pytorch-FF4154.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/keras-c14438.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
+<div>  
+  <img src="https://img.shields.io/badge/looker-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>&nbsp
 </div>
 
-<br/>
+<br />
 
-<div>
-  <img src="https://img.shields.io/badge/flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/streamlit-c14438.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Ultralytics-007ACC.svg?style=for-the-badge&logo=Ultralytics&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MLops-1daabb.svg?style=for-the-badge&logo=MLops&logoColor=white" />&nbsp
+<div>  
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/googleworkspace-34A853.svg?style=for-the-badge&logo=google&logoColor=white"/>&nbsp
 </div>
 
 <br /><br /><br/>
 
-<h2> 📙 관심 분야입니다. </h2>
+<h2> 📚 관심 분야입니다. </h2>
 
 <br />
 
@@ -73,7 +66,7 @@
   
 <br /><br /><br/>
 
-<h2> ✉️ 문의 시 메일로 연락주세요. </h2>
+<h2> 📩 문의 시 메일로 연락주세요. </h2>
 
 <br/>
 
