@@ -93,7 +93,7 @@
 |Kaggle|위스콘신 유방암 예측|XGBoost, LightGBM, CatBoost 모델 학습 및 정확도 비교분석 / 정확도 : 91%|[링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git)|
 |Kaggle|성인 인구조사 소득 예측|Pycret, Lazy Predict 인구소득예측 정확도 비교분석 / 정확도 : 86%, 88%|[링크](https://github.com/sinheechan/ML_AutoModel_test.git)|
 |Kaggle|OECD 국가 삶 만족도 예측|국가의 1인당 GDP에 따른 해당 국가의 삶의 만족도 예측 / 회귀모델 적절성 반증 |[링크](https://github.com/sinheechan/Data_Analysis_OECD.git)|
-|Kaggle|Human Activity Recognition 예측|RandomForest 스마트 폰 동작 센서데이터 피처 기반 동작 예측 / 정확도 : 0.9231 |[링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git)|
+|UCI|Human Activity Recognition 예측|RandomForest 스마트 폰 동작 센서데이터 피처 기반 동작 예측 / 정확도 : 0.9231 |[링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git)|
 
 <br/><br/><br/>
 
