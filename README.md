@@ -82,25 +82,18 @@
 
 <br/>
 
-- Titanic 생존률 예측  ([링크](https://github.com/sinheechan/Data_Analysis_Titanic.git))  
-
-- Santander 고객만족 예측  ([링크](https://github.com/sinheechan/Data_Analysis_Santander.git))
-
-- Mnist 손글씨 숫자 이미지 분류 ([링크](https://github.com/sinheechan/Data_Analysis_Mnist.git))
-
-- OECD 국가 삶 만족도 예측 ([링크](https://github.com/sinheechan/Data_Analysis_OECD.git))
-
-- Bike Sharing 수요예측 ([링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git))
-
-- Iris 품종 분류하기 ([링크](https://github.com/sinheechan/Data_analysis_IRIS.git))
-
-- Pima Indians 당뇨병 예측 ([링크](https://github.com/sinheechan/Data_analysis_Pima.git))
-
-- Human Activity Recognition 데이터 예측 ([링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git))
-
-- 위스콘신 유방암 예측 ([링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git))
-
-- 소득 예측을 위한 Custom, PyCaret, Lazy Predict 방법론 비교분석 ([링크](https://github.com/sinheechan/ML_AutoModel_test.git))
+|자료출처|내용|결과기록|URL|
+|------|---|---|-|
+|Kaggle|Titanic 생존률 예측|K-Fold 교차 검증, Grid Search로 최적의 하이퍼파라미터를 적용 / 정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Titanic.git)|
+|Kaggle|Santander 고객만족 예측|XGBoost 분류기 모델 학습, Hyperopt 최적 하이퍼파라미터 도출 / 정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Santander.git)|
+|Kaggle|공유자전거 수요예측|GradientBoostingRegressor 회귀 모델 훈련 > K-Fold 교차 검증 /  정확도 : 84%|[링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git)|
+|Kaggle|Mnist 손글씨 숫자 이미지 분류|GridSearchCV 최적 하이퍼파라미터 도출 > 성능 향상방안 도출 / 정확도 97%|[링크](https://github.com/sinheechan/Data_Analysis_Mnist.git)|
+|Kaggle|Iris 품종 분류|Scaling, LogisticRegression을 통한 Data 품종 분류 /  정확도 : 92%|[링크](https://github.com/sinheechan/Data_analysis_IRIS.git)|
+|Kaggle|Pima Indians 당뇨병 예측|LogisticRegression 임계값(threshold)을 변형 > 분류 모델 평가 / 정확도 : 92%|[링크](https://github.com/sinheechan/Data_analysis_Pima.git)|
+|Kaggle|위스콘신 유방암 예측|XGBoost, LightGBM, CatBoost 모델 학습 및 정확도 비교분석 / 정확도 : 91%|[링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git)|
+|Kaggle|성인 인구조사 소득 예측|Pycret, Lazy Predict 인구소득예측 정확도 비교분석 / 정확도 : 86%, 88%|[링크](https://github.com/sinheechan/ML_AutoModel_test.git)|
+|Kaggle|OECD 국가 삶 만족도 예측|- |[링크](https://github.com/sinheechan/Data_Analysis_OECD.git)|
+|Kaggle|Human Activity Recognition 예측|- |[링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git)|
 
 <br/><br/><br/>
 
