@@ -84,16 +84,16 @@
 |주제|결과기록|URL|
 |---|---|-|
 |Learn_Basic| Numpy, Python 데이터 구조 파악 및 머신러닝 모델 별 작동원리 정리| [링크](https://github.com/sinheechan/Data_Analysis_Titanic.git)|
-|Titanic 생존률 예측|K-Fold 교차 검증, Grid Search로 최적의 하이퍼파라미터를 적용 / 정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Titanic.git)|
-|Santander 고객만족 예측|XGBoost 분류기 모델 학습, Hyperopt 최적 하이퍼파라미터 도출 / 정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Santander.git)|
-|공유자전거 수요예측|GradientBoostingRegressor 회귀 모델 훈련 > K-Fold 교차 검증 /  정확도 : 84%|[링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git)|
-|Mnist 손글씨 숫자 이미지 분류|GridSearchCV 최적 하이퍼파라미터 도출 > 성능 향상방안 도출 / 정확도 97%|[링크](https://github.com/sinheechan/Data_Analysis_Mnist.git)|
-|Iris 품종 분류|Scaling, LogisticRegression을 통한 Data 품종 분류 /  정확도 : 92%|[링크](https://github.com/sinheechan/Data_analysis_IRIS.git)|
-|Pima Indians 당뇨병 예측|LogisticRegression 임계값(threshold)을 변형 > 분류 모델 평가 / 정확도 : 92%|[링크](https://github.com/sinheechan/Data_analysis_Pima.git)|
-|위스콘신 유방암 예측|XGBoost, LightGBM, CatBoost 모델 학습 및 정확도 비교분석 / 정확도 : 91%|[링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git)|
-|성인 인구조사 소득 예측|Pycret, Lazy Predict 인구소득예측 정확도 비교분석 / 정확도 : 86%, 88%|[링크](https://github.com/sinheechan/ML_AutoModel_test.git)|
-|OECD 국가 삶 만족도 예측|국가의 1인당 GDP에 따른 해당 국가의 삶의 만족도 예측 / 회귀모델 적절성 반증 |[링크](https://github.com/sinheechan/Data_Analysis_OECD.git)|
-|사용자 행동 데이터 예측|RandomForest 스마트 폰 동작 센서데이터 피처 기반 동작 예측 / 정확도 : 0.9231 |[링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git)|
+|Titanic 생존률 예측|K-Fold 교차 검증, Grid Search로 최적의 하이퍼파라미터를 적용  /  정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Titanic.git)|
+|Santander 고객만족 예측|XGBoost 분류기 모델 학습, Hyperopt 최적 하이퍼파라미터 도출  /  정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Santander.git)|
+|공유자전거 수요예측|GradientBoostingRegressor 회귀 모델 훈련 > K-Fold 교차 검증  /  정확도 : 84%|[링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git)|
+|Mnist 손글씨 숫자 이미지 분류|GridSearchCV 최적 하이퍼파라미터 도출 > 성능 향상방안 도출  /  정확도 97%|[링크](https://github.com/sinheechan/Data_Analysis_Mnist.git)|
+|Iris 품종 분류|Scaling, LogisticRegression을 통한 Data 품종 분류  /  정확도 : 92%|[링크](https://github.com/sinheechan/Data_analysis_IRIS.git)|
+|Pima Indians 당뇨병 예측|LogisticRegression 임계값(threshold)을 변형 > 분류 모델 평가  /  정확도 : 92%|[링크](https://github.com/sinheechan/Data_analysis_Pima.git)|
+|위스콘신 유방암 예측|XGBoost, LightGBM, CatBoost 모델 학습 및 정확도 비교분석  /  정확도 : 91%|[링크](https://github.com/sinheechan/Data_analysis_Wisconsin.git)|
+|성인 인구조사 소득 예측|Pycret, Lazy Predict 인구소득예측 정확도 비교분석  /  정확도 : 86%, 88%|[링크](https://github.com/sinheechan/ML_AutoModel_test.git)|
+|OECD 국가 삶 만족도 예측|국가의 1인당 GDP에 따른 해당 국가의 삶의 만족도 예측  /  회귀모델 적절성 반증 |[링크](https://github.com/sinheechan/Data_Analysis_OECD.git)|
+|사용자 행동 데이터 예측|RandomForest 스마트 폰 동작 센서데이터 피처 기반 동작 예측  /  정확도 : 0.9231 |[링크](https://github.com/sinheechan/Data_analysis_HumanActivity.git)|
 
 <br/><br/><br/>
 
