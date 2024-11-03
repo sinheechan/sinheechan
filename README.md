@@ -121,7 +121,7 @@
 
 - Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
-<br /><br /> 
+<br />
 
 <h3> 🖼️ 이미지 기반 Classification Model </h3>
 
@@ -133,7 +133,7 @@
 
 - chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
 
-<br /><br />
+<br />
 
 <h3> 🚕 교통 / 차량 서비스 관련 Detection Models </h3>
 
@@ -149,7 +149,7 @@
 
 - Yolov5 객체(차량) 간 거리 측정 모델 구현 ([링크](https://github.com/sinheechan/Yolov5_Car_Distance.git))
 
-<br /><br />
+<br />
 
 <h3> 🤖 생성형 AI 알고리즘 학습 </h3>
 
@@ -163,7 +163,7 @@
 
 - Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
 
-<br/><br/>
+<br/>
 
 <h3> 🧬 MLops / RPA 자동화 시스템 구축 </h3>
 
