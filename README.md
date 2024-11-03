@@ -85,7 +85,7 @@
 
 |주제|결과기록|URL|
 |---|---|-|
-|Learn_Basic| Numpy, Python 데이터 구조 파악 및 머신러닝 모델 별 작동원리 정리| [링크]([https://github.com/sinheechan/Data_Analysis_Titanic.git](https://github.com/sinheechan/Learn_Basic.git))|
+|Learn_Basic| Numpy, Python 데이터 구조 파악 및 머신러닝 모델 별 작동원리 정리| [링크](https://github.com/sinheechan/Learn_Basic.git)|
 |Titanic 생존률 예측|K-Fold 교차 검증, Grid Search로 최적의 하이퍼파라미터를 적용  /  정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Titanic.git)|
 |Santander 고객만족 예측|XGBoost 분류기 모델 학습, Hyperopt 최적 하이퍼파라미터 도출  /  정확도 : 82%|[링크](https://github.com/sinheechan/Data_Analysis_Santander.git)|
 |공유자전거 수요예측|GradientBoostingRegressor 회귀 모델 훈련 > K-Fold 교차 검증  /  정확도 : 84%|[링크](https://github.com/sinheechan/Data_Analysis_BikeSharing.git)|
