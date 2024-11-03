@@ -111,6 +111,8 @@
 
 <h3> 📚 Basic Skills </h3>
 
+<br/>
+
 - 딥러닝 기초: Keras와 TensorFlow의 이론 학습 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
 <br/>
