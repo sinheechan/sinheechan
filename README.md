@@ -7,7 +7,7 @@
 
 <br/><br/><br/>
 
-<h2> 🤔 데이터 분석 / AI 엔지니어 관련 프로젝트와 자료를 업로드하고 있습니다. 🤔 </h2>
+<h2> 🤔 Hello world's I'm Shin Hee-chan, a data analyst. 🤔 </h2>
 
 <br/><br/><br/>
 
