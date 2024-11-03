@@ -29,7 +29,7 @@
 
 <h2> 🖥️ Stack </h2>
 
-<br /><br /> 
+<br />
 
 <div>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
@@ -107,7 +107,7 @@
 
 <h2> 🤖  AI 학습 프로젝트 </h2>
 
-<br/><br/>
+<br/>
 
 |주제|결과기록|URL|
 |---|---|-|
