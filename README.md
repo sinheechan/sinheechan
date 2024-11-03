@@ -86,7 +86,7 @@
 |주제|결과기록|URL|
 |---|---|-|
 |Learn_Basic| Numpy, Python 데이터 구조 파악 및 머신러닝 모델 별 작동원리 정리 | [링크](https://github.com/sinheechan/Learn_Basic.git)|
-|Learn_Code| 데이터 분석 과정에서의 개인적인 작업 플로우 기록 to Python, R, SQL | [작업중]|
+|Learn_Code| 데이터 분석 과정에서의 개인적인 작업 프로세스 기록 to Python, R, SQL | [작업중]|
 
 <br/>
 
