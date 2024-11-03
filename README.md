@@ -109,10 +109,9 @@
 
 <br/>
 
-|주제|결과기록|URL|
-|---|---|-|
-|Keras| Keras 기본이론 및 코드 정리 | [공부중]|
-|TensorFlow| TensorFlow 기본이론 및 코드 정리 |[공부중]|
+<h3> 📚 Basic Skills </h3>
+
+- 딥러닝 기초: Keras와 TensorFlow의 이론 학습 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
 <br/>
 
