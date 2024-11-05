@@ -59,14 +59,16 @@
 <h2> 🔥 Technologies of Interest </h2>
 
 <br />
-
-<div>
   
-- MLops / RPA 기반 업무, 협업 자동화 프로세스 구축
+- MLops 기반 수집, 적재, 분석, 서비스 자동화 프로세스 구축
 
-- 건설현장, 차량서비스에 활용되는 Detection(탐지) Model 알고리즘 구축
-  
-<br /><br /><br/>
+- RPA 업무 자동화 프로세스 구축
+
+<br />
+
+![MLops Main Image](image/MLops_main.png)
+
+<br /><br />
 
 <h2> 📩 Mail </h2>
 
