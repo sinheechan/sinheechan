@@ -66,7 +66,7 @@
 
 <br />
 
-![MLops Main Image](image/MLops_main.png)
+![MLops](image/MLops_main.png)
 
 <br /><br />
 
