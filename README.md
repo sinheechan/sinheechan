@@ -64,10 +64,6 @@
 
 - RPA 업무 자동화 프로세스 구축
 
-<br />
-
-![MLops](image/MLops_main.png)
-
 <br /><br />
 
 <h2> 📩 Mail </h2>
