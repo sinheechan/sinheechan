@@ -40,13 +40,6 @@
 <br />
 
 <div>  
-  <img src="https://img.shields.io/badge/looker-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>&nbsp
-</div>
-
-<br />
-
-<div>  
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
