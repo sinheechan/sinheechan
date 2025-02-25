@@ -7,15 +7,15 @@
 
 <br/><br/><br/>
 
-<h1> 😎 Hello world's I'm Heechan Shin 😎 </h2>
+<h1> 😎 안녕하세요. AI개발자 신희찬입니다. 😎 </h2>
 
 <br/>
 
-
+- 코드 개발로 사용자들에게 실용적인 서비스를 제공하는 것이 목표입니다.
 
 <br/><br/>
 
-<h2> 💻 Technologies I'm Passionate About </h2>
+<h2> 💻 관심분야 </h2>
 
 - Machine Learning/Deep Learning
   
@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<h2> 🤵 Career </h2>
+<h2> 🤵 경력 </h2>
 
 
 - **2015.02** ~ **2021.03** : [한남대학교] 경제학부(주), 마케팅(부) 전공 / 군대(만기전역)
@@ -42,7 +42,7 @@
 
 <br /><br />
 
-<h2> 🖥️ Programming Languages </h2>
+<h2> 🖥️ 프로그레밍 언어 </h2>
 
 <br />
 
@@ -103,13 +103,12 @@
 
 - Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
 
-<br/>
-
-<h2> 🤓 Project </h3>
 
 <br />
 
-- 경제 뉴스 수집 자동화 및 기업 주가 예측 데이터 제공하는 Web 서비스 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
+- 개인 프로젝트 - 경제 뉴스 수집 자동화 및 기업 주가 예측 데이터 제공하는 Web 서비스 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
+
+- 회사 프로젝트 - Private(개별요청)
 
 <br /><br />
 
