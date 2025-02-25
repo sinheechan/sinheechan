@@ -7,7 +7,7 @@
 
 <br/><br/><br/>
 
-<h2> 🤔 Hello world's I'm Shin Hee-chan, a data analyst. 🤔 </h2>
+<h2> 😎 Hello world's I'm Heechan Shin 😎 </h2>
 
 <br/><br/><br/>
 
@@ -98,7 +98,7 @@
 
 <br/>
 
-<h3> 🤓 Project </h3>
+<h2> 🤓 Project </h3>
 
 <br />
 
