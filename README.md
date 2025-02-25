@@ -103,12 +103,13 @@
 
 - Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
 
+<br/><br/><br/>
+
+<h2>🤓 Project </h2>
 
 <br />
 
 - 개인 프로젝트 - 경제 뉴스 수집 자동화 및 기업 주가 예측 데이터 제공하는 Web 서비스 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
-
-- 회사 프로젝트 - Private(개별요청)
 
 <br /><br />
 
