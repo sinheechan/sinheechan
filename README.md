@@ -7,9 +7,13 @@
 
 <br/><br/><br/>
 
-<h2> 😎 Hello world's I'm Heechan Shin 😎 </h2>
+<h1> 😎 Hello world's I'm Heechan Shin 😎 </h2>
 
-<br/><br/><br/>
+<br/>
+
+
+
+<br/><br/>
 
 <h2> 💻 Technologies I'm Passionate About </h2>
 
@@ -19,25 +23,26 @@
 
 - Backend Web Development to python
 
-<br/><br/><br/>
+- MLOps Automation Process
+
+<br/><br/>
 
 <h2> 🤵 Career </h2>
 
-<br/>
 
-🎓 **2015.02** ~ **2021.03** : [한남대학교] 경제학부(주), 마케팅(부) 전공 / 군대(만기전역)
+- **2015.02** ~ **2021.03** : [한남대학교] 경제학부(주), 마케팅(부) 전공 / 군대(만기전역)
 
-👣 **2022.07** ~ **2023.08** : [IVE_korea] App 마케팅 분석 AM 직무 수행
+- **2022.07** ~ **2023.08** : [IVE_korea] App 마케팅 분석 AM 직무 수행
   
-✍️ **2023.08** ~ **2024.06** : [IT_Korea_Academy] Python, R 빅데이터, DBMS, AI 인공지능 빅데이터 과정 수료
+- **2023.08** ~ **2024.06** : [IT_Korea_Academy] Python, R 빅데이터, DBMS, AI 인공지능 빅데이터 과정 수료
 
-👣 **2024.06** ~ **2024.10** : [Progress Media] Web 마케팅 분석 AM 직무 수행
+- **2024.06** ~ **2024.10** : [Progress Media] Web 마케팅 분석 AM 직무 수행
 
-👣 **2024.10** ~ **재직 중** : [스마트뱅크] 국방사업 AI개발자 직무 수행 중
+- **2024.10** ~ **재직 중** : [스마트뱅크] 국방사업 AI개발자 직무 수행 중
 
-<br /><br /><br/>
+<br /><br />
 
-<h2> 🖥️ Stack </h2>
+<h2> 🖥️ Programming Languages </h2>
 
 <br />
 
@@ -46,14 +51,6 @@
   <img src="https://img.shields.io/badge/MySQL-F5C300?style=for-the-badge&logo=MySQL&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
 </div>
-
-<br /><br /><br/>
-
-<h2> 🔥 Technologies of Interest </h2>
-
-<br />
-  
-- MLops 기반 데이터 정제, 분석, 모델링 과정 자동화 프로세스 구축
 
 <br /><br />
 
