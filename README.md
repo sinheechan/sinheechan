@@ -37,16 +37,6 @@
   <img src="https://img.shields.io/badge/RStudio-007AFF?style=for-the-badge&logo=R&logoColor=white"/>&nbsp
 </div>
 
-<br />
-
-<div>  
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/googleworkspace-34A853.svg?style=for-the-badge&logo=google&logoColor=white"/>&nbsp
-</div>
-
 <br /><br /><br/>
 
 <h2> 🔥 Technologies of Interest </h2>
