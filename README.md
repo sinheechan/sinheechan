@@ -58,7 +58,7 @@
 
 <br/><br/><br/>
 
-<h2>📈 Academy & Seminars </h2>
+<h2>🤔 Academy & Seminars </h2>
 
 <br/> 
 
@@ -68,29 +68,13 @@
 
 <br/>
 
-<h3> ⛑️ 건설현장 안전 </h3>
+- 건설형장 안전을 위한 Alibi 모델을 활용 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
-<br/>  
-
-- Alibi 모델을 활용한 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
-
-<br />
-
-<h3> 🖼️ 이미지 기반 Classification Model </h3>
-
-<br /> 
-
-- DeepLearning : 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
+- 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
 
 - torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
 
 - chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
-
-<br />
-
-<h3> 🚕 교통 / 차량 서비스 관련 Detection Models </h3>
-
-<br/>
 
 - YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
   
@@ -102,12 +86,6 @@
 
 - Yolov5 객체(차량) 간 거리 측정 모델 구현 ([링크](https://github.com/sinheechan/Yolov5_Car_Distance.git))
 
-<br />
-
-<h3> 🤖 생성형 AI 알고리즘 학습 </h3>
-
-<br/>
-
 - Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
 
 - Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
@@ -116,15 +94,15 @@
 
 - Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
 
+- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
+
 <br/>
 
-<h3> 🧬 MLops / RPA 자동화 시스템 구축 </h3>
+<h3> 🤓 Project </h3>
 
 <br />
 
-- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
-
-- MLops를 활용한 주식데이터 수집, DB 적재, 예측 자동화 모델 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
+- 경제 뉴스 수집 자동화 및 기업 주가 예측 데이터 제공하는 Web 서비스 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
 <br /><br />
 
