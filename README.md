@@ -11,6 +11,16 @@
 
 <br/><br/><br/>
 
+<h2> 💻 Technologies I'm Passionate About </h2>
+
+- Machine Learning/Deep Learning
+  
+- Image Processing
+
+- Backend Web Development to python
+
+<br/><br/><br/>
+
 <h2> 🤵 Career </h2>
 
 <br/>
