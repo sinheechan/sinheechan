@@ -69,39 +69,39 @@
 
 <br/> 
 
-- Numpy, Python 데이터 구조 파악 및 머신러닝 모델 별 작동원리 정리 [링크](https://github.com/sinheechan/Learn_Basic.git)|
-- 데이터 분석 과정에서의 개인적인 작업 프로세스 기록 to Python, [링크](https://github.com/sinheechan/Learn_Code.git)|
-- 데이터 분석을 위한 DB 관리 프로세스를 기록해놓았습니다. to SQL [링크](https://github.com/sinheechan/DB_postgresql_dbeaver.git)|
+- Seminars - Numpy, Python 데이터 구조 파악 및 머신러닝 모델 별 작동원리 정리 [링크](https://github.com/sinheechan/Learn_Basic.git)|
+- Seminars - 데이터 분석 과정에서의 개인적인 작업 프로세스 기록 to Python, [링크](https://github.com/sinheechan/Learn_Code.git)|
+- Seminars - 데이터 분석을 위한 DB 관리 프로세스를 기록해놓았습니다. to SQL [링크](https://github.com/sinheechan/DB_postgresql_dbeaver.git)|
 
 <br/>
 
-- 건설형장 안전을 위한 Alibi 모델을 활용 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
+- Academy - 건설형장 안전을 위한 Alibi 모델을 활용 이상탐지 테스트 및 Web Application 구축 ([링크](https://github.com/sinheechan/Outlier_Alibi_Flask.git))
 
-- 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
+- Academy - 이미지 분류를 위한 CNN, 전이학습, Yolov8 모델 비교분석 ([링크](https://github.com/sinheechan/Projuct_Cls_Model_test.git))
 
-- torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
+- Academy - torchvision 이미지 분류 전이학습 모델 별 성능 Test / Flask 서버 구축 ([링크](https://github.com/sinheechan/Project_Image_cls_Flask.git))
 
-- chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
+- Academy - chromad 기반 DINO-ViT-S/16 모델 이미지 분류 Test 및 모델 구축 ([링크](https://github.com/sinheechan/chromadb_ViT_food.git))  
 
-- YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
+- Academy - YOLOv8을 활용한 객체 (이미지 or 동영상) 인식 및 분류모델 구현 ([링크](https://github.com/sinheechan/Project_Yolov8.git))
   
-- YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
+- Academy - YOLOv8을 활용한 영상 객체 감지 및 Flask Web Application 배포 ([링크](https://github.com/sinheechan/Project_yolov8_cls_flask.git))
 
-- GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
+- Academy - GradCAM을 활용한 이미지 분류, 객체 검출 모델 구현 ([링크](https://github.com/sinheechan/CAM_Binary-classifier.git))
 
-- Semantic Segmentation 차량 파손 견적 서비스 구현 ([링크](https://github.com/sinheechan/Car_damage_segment.git))
+- Academy - Semantic Segmentation 차량 파손 견적 서비스 구현 ([링크](https://github.com/sinheechan/Car_damage_segment.git))
 
-- Yolov5 객체(차량) 간 거리 측정 모델 구현 ([링크](https://github.com/sinheechan/Yolov5_Car_Distance.git))
+- Academy - Yolov5 객체(차량) 간 거리 측정 모델 구현 ([링크](https://github.com/sinheechan/Yolov5_Car_Distance.git))
 
-- Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
+- Academy - Streamlit을 활용한 심리상담 인공지능 챗봇 모델 구현 ([링크](https://github.com/sinheechan/Project_Chatbot.git))
 
-- Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
+- Academy - Tacotron2를 활용한 국내 5개 지역의 사투리로 말하는 인공지능 모델 학습 ([링크](https://github.com/sinheechan/Project_TTS_STT_Flask.git))
 
-- LLM : LLaMA-3 확장된 한국어 학습 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
+- Academy - LLM : LLaMA-3 확장된 한국어 학습 언어모델 Llama_3_Open_Ko_8B, llama-3-Korean-Bllossom-8B 모델 학습 ([링크](https://github.com/sinheechan/LLM_Chatbot.git)) 
 
-- Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
+- Academy - Open API를 활용한 고속 텍스트 분석 및 요약 모델 구축 ([링크](https://github.com/sinheechan/Text_summarization_Translation.git))
 
-- Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
+- Academy - Mnist 손글씨 분류 및 시각화 / 비트코인의 가격 및 거래량을 시각화 Web Application 구축 ([링크](https://github.com/sinheechan/Project_streamlit_Webapp.git))
 
 <br/><br/><br/>
 
