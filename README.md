@@ -111,7 +111,7 @@
 
 - 개인 프로젝트 - 경제 뉴스 수집 자동화 및 기업 주가 예측 데이터 제공하는 Web 서비스 구현 ([링크](https://github.com/sinheechan/Project_MLops.git))
 
-- 유용한 소스코드 모음 ([링크](https://github.com/sinheechan/Project_MLops.git))
+- 유용한 소스코드 모음 ([링크](https://github.com/sinheechan/Used_code.git))
 
 <br /><br />
 
