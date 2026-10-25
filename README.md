@@ -87,26 +87,26 @@
 
 ### 📌 Data Pipeline · MLOps
 
-| 프로젝트 | 설명 | 기술 | 링크 |
-| --- | --- | --- | --- |
-| 공장 전력 피크 제어 엣지 시스템 | 1초 단위 전력 수집 → 15분 수요 예측 → 목표 초과 시 ESS·부하 자동 제어, 통신 끊김 시 무손실 재전송 | Modbus · MQTT · PostgreSQL · Docker · Streamlit | [링크](https://github.com/sinheechan/power-edge) |
-| 설비 잔여수명(RUL) 예측 파이프라인 <sub>진행 중</sub> | 설비 센서 데이터 이상탐지 및 잔여수명 예측, 수집·학습 워크플로 자동화 | PostgreSQL · Airflow · Docker | [링크](https://github.com/sinheechan/rul-pipeline) |
-| MLOps 주가 예측 서비스 | 주식 데이터 수집·DB 적재 자동화 및 예측 결과 Web 배포 | Python · Flask · DBeaver · Postman | [링크](https://github.com/sinheechan/Project_MLops) |
+| 프로젝트 | 설명 | 기술 |
+| --- | --- | --- |
+| [전력 피크 제어](https://github.com/sinheechan/power-edge) | 실시간 전력 수집 · 피크 예측 · ESS 자동 제어 | MQTT · PostgreSQL · Docker |
+| [설비 RUL 예측](https://github.com/sinheechan/rul-pipeline) <sub>진행 중</sub> | 센서 이상탐지 · 잔여수명 예측 자동화 | Airflow · PostgreSQL |
+| [주가 예측 MLOps](https://github.com/sinheechan/Project_MLops) | 주식 데이터 수집·적재 · 예측 웹 배포 | Flask · PostgreSQL |
 
 ### 📌 Computer Vision
 
-| 프로젝트 | 설명 | 기술 | 링크 |
-| --- | --- | --- | --- |
-| 건설현장 안전모 감지 | CCTV 영상에서 작업자 안전모 착용 여부 탐지 및 알림 전송 | YOLO · Python | [링크](https://github.com/sinheechan/Visual_inteligence_Hardhat) |
-| 차량 간 거리 측정 | 블랙박스 영상 차량 객체 탐지 및 차간거리 측정 | PyTorch · YOLOv5 | [링크](https://github.com/sinheechan/Yolov5_Car_Distance) |
-| 차량 손상 탐지 | 손상 종류 세그멘테이션 및 면적 기반 수리비 산출 | Unet | [링크](https://github.com/sinheechan/Car_damage_segment) |
-| 화재 감지 시스템 | 이상 조건 학습 모델 Grad-CAM 시각화 | Grad-CAM | [링크](https://github.com/sinheechan/CAM_Binary-classifier) |
-| YOLOv8 객체 감지 웹 서비스 | 영상 객체 감지 결과를 Flask 웹으로 모니터링 | YOLOv8 · Flask | [링크](https://github.com/sinheechan/Project_yolov8_cls_flask) |
+| 프로젝트 | 설명 | 기술 |
+| --- | --- | --- |
+| [안전모 감지](https://github.com/sinheechan/Visual_inteligence_Hardhat) | CCTV 안전모 착용 탐지 · 알림 | YOLO |
+| [차간거리 측정](https://github.com/sinheechan/Yolov5_Car_Distance) | 블랙박스 차량 탐지 · 거리 측정 | YOLOv5 |
+| [차량 손상 탐지](https://github.com/sinheechan/Car_damage_segment) | 손상 세그멘테이션 · 수리비 산출 | Unet |
+| [화재 감지](https://github.com/sinheechan/CAM_Binary-classifier) | 화재 분류 · Grad-CAM 시각화 | Grad-CAM |
+| [객체 감지 웹](https://github.com/sinheechan/Project_yolov8_cls_flask) | 영상 객체 감지 · 웹 모니터링 | YOLOv8 · Flask |
 
 <!--
-새 프로젝트 추가 방법
+새 프로젝트 추가 방법 (줄바꿈 방지: 이름 10자 / 설명 25자 / 기술 3개 이내)
 1) 해당 분야 표에 한 줄 추가
-   | 프로젝트명 | 무엇을 → 어떤 결과 (한 줄) | 핵심 기술 3~4개 | [링크](레포주소) |
+   | [프로젝트명](레포주소) | 핵심 기능 · 결과 | 기술 2~3개 |
 2) 새 분야면 "### 📌 분야명" + 표를 새로 만들기
 3) 최신 프로젝트를 표 맨 위에
 -->
